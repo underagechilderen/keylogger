@@ -1,22 +1,3 @@
-
-<br/>
-<p align="center">
-  <a href="https://github.com/underagechilderen/keylogger">
-    <img src="https://nordvpn.com/wp-content/uploads/blog-social-keylogger-1200x628-1.png" alt="Logo" width="80" height="80">
-  </a>
-
-
-  <h3 align="center"Keylogger</h3>
-
-  <p align="center">
-   Join for free stealer!
-    <br/>
-    <br/>
-    <a href="Discord">https://t.me/duckstealer</a>
-  </p>
-</p>
-
-
 # 📸 Preview 
 <p align="center">
 <img src="https://aziz.hadsex.today/6G15aoWb7.png">
