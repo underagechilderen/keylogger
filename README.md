@@ -1,6 +1,6 @@
 # 📸 Preview 
 <p align="center">
-<img src="https://aziz.hadsex.today/6G15aoWb7.png">
+<img src="https://aziz.hadsex.today/ogp/6G15FyuNQ.png">
 </p>
 
 
