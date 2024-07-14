@@ -9,5 +9,5 @@ Open Setup.bat To Install all requirements!
 
 ## Disclaimer❗
 This project was created only for good purposes and personal use.
-By using This Cookie Checker, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+By using This Keylogger, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
